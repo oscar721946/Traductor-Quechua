@@ -1,0 +1,141 @@
+SUFIJOS FLEXIVOS
+SUFIJOS FLEXIVOS DE PERSONA: 
+   -y                  Primera persona posesiva            wasi-y              mi casa
+   -yki               Segunda persona posesiva           wasi-yki           tu casa
+   -n                 Tercera persona posesiva             wasi-n              su casa (de él, de ella)
+   -nchik           1ra persona plural posesiva inclusiva           wasi-nchik         nuestra casa
+   -yku             1ra persona plural posesivo exclusiva           wasi-yku       nuestra casa
+   -ykichik        2da persona plural posesivo                    wasi-ykichik      su casa (de ustedes)
+   -nku 3ra persona plural posesiva                           wasi-nku     su casa (de ellos, de ellas)
+FLEXIVOS DE NÚMERO:
+FORMA SINGULAR Y FORMA PLURAL:
+       -Kuna Plural                                 wasi-kuna                                  casas
+        Cuantificadores                          tawa wasi                                   cuatro casas
+        Reduplicación                             rumi rumi                                  pedregoso
+FLEXIVO DE CASO:
+   -ta              Acusativo    wasi-ta rantini                               compre una casa
+                     Papa-ta-wan aycha-ta-wan rantini                 compre papa y carne 
+                     Saraqa sumaq-ta wiñachkan                    El maíz está creciendo bien
+                     Llaqta-ta riyku                                            hemos ido al pueblo
+                     Sit´iyay-ta jamunki                                     Vendras al amanecer
+  -man           Direccional                     wasi-man richkani                     estoy yendo a la casa
+  -manta        Procedencia                 uma-manta urmaykuni               me caí de cabeza
+                     Machasqa-manta jamuni                   vine de borracho
+                     T´uru-manta kay mankaqa                Esta olla es de barro
+                     Wawan-manta parlachkanku           están hablando de su hijo
+                     Pay-manta achwan jatun kani           soy más grande que él
+  -pi                Locativo       Pay wasi-pi kasan          ella/él está en casa
+  -niq              Proximativo     Wasiyki-niq-ta jamusaq                  vendré por tu casa
+  -paq            Destinativo       Waway-paq llank´ani               Trabajo para mi hijo
+                     Watantin-paq saqichkani                   estoy dejando para todo el año
+                    Wata-paq jamusaq                              Vendré para el año
+                    Mamayki-paq rimachkarqa               estaba protestando para tu mamá
+                    Wasichanay-paq aqhachkani            estoy haciendo chicha para techar
+  -kama        Limitativo     Chakha-kama risqa              había ido hasta la chacra
+                    Wank´unayki-kama pichachkasaq            Limpiare mientras cocinas
+  -p/pa         Genetivo        María-p wasin                la casa de María
+                   Mamay-pa ñañan                  la hermana de mi mamá
+  -wan         Instrumentativo.     Pay-wan parlasaq           Hablaré con él/ella
+                   Tatan-wan maman-wan rinku              Fueron su papá y su mamá
+                   Ima-wan wayk´usaq               Con qué cocinaré
+                   Imata-wan apasaq                  Qué más llevaré
+  -rayku       Causativo                 ima-rayku waqachkankiri?            Por qué estas llorando?
+                   Qam-rayku jamuni                    Vine por ti.
+SUFIJOS DERIVATIVOS NOMINALES:
+SUFIJOS NOMINALES DERIVADOS DE NOMBRES:
+   -yuq          Posesivo           Chay warmi qusa-yuq              Esa mujer tiene esposo
+                    Iskay chunka jukni-yuq kani                           Tengo 21 años
+   -ntin          Inclusivo plural            Chunka-ntin rinku           Fueron los diez 
+   -sapa        Aumentativo              Pay wiksa-sapa              Él es barrigón
+                    Qhuña-sapa kanki                 Eres mocoso
+   -itu/ita        Diminutivo             Chay yana allq-itu            Ese perrito negro
+                     Chay imill-ita llaqachkan                   Esa niña esta llorando 
+SUFIJOS NOMINALES DERIVADOS DE VERBO
+   -y              Infinitivo                Ruwa-y              Hacer
+   -na            Nominalizador         Picha-na-ta apamuy             Trae la ecoba
+   -q              Agentivo               Taki-q chamunña                 El cantante ya llego
+   -sqa          Estado completo           llaki-sqa kasan              Está deprimido
+DESCRIPCION DE LOS SUFIJOS VERBALES
+SUFIJOS FLEXIVOS VERBALES:
+SUFIJOS FLEXIVOS PERSONALES:
+     -ni                 Primera persona                 Taki-ni            Canto
+     -nki               Segunda persona                Taki-nki          Cantas
+     -n                 Tercera persona                  Taki-n            Canta
+     -nchik          1ra persona plural inclusiva           Taki-nchik          Cantamos
+     -yku             1ra persona plural exclusivo          Taki-yku            Cantamos
+     -nkichik        2da persona plural                   Taki-nkichik             Cantan
+     -nku             3ra persona plural                     Taki-nku                  Cantan
+SUFIJOS MARCADORES DE OBJETOS 
+     -wa              Objeto de primera persona              Qu-wa-nki         Tú me das a mi
+     -yki              Objeto de segunda persona             Qu-yki               Yo a ti te doy
+     -su               Objeto de tercera persona                Qu-su-nki         Él/ella a ti te da
+SUFIJOS FLEXIVOS DE NÚMERO
+     -chik              Incluyente                   Tusu-n-chik             Bailamos
+                                                              Tusu-nki-chik          Ustedes bailan
+     -ku                Excluyente                   Tusu-y-ku               Bailamos
+                                                               Tusu-n-ku               Ellos/ellas bailan
+SUFIJOS FLEXIVOS DE TIEMPO 
+SUFIJOS MARCADORES DEL PRESENTE
+     -ni                   1ra persona              Asi-ni                Yo río
+     -.nki                2ra persona              Asi-nki               Tú ries
+     -n                    3ra persona              Asi-n                  Él rie
+     -nchik            1ra persona plural      asi-nchik           reimos
+     -yku                1ra perona plural      Asi-yku              Reimos
+     -nkichik          2da persona plural    Asi-nkichik        ustedes ríen
+     -nku               3ra persona plural     Asi-nku             Ellos ríen 
+SUFIJOS MARCADORES DEL FUTURO
+     -saq       1ra persona     puñu-saq       dormiré
+     -nki        2da persona     puñu-nki       Dormirás
+   -nqa              3ra persona        Puñu-nqa      Él/ella dormirá
+  -sunchik        1ra persona plural incluyente    Puñu-sunchik      Dormiremos
+  -saqku           1ra persona plural excluyente   Puñu-saqku        Dormiremos
+  -nkichik          2da persona plural                  Puñu-nkichik        ustedes dormirán
+  -nqanku         3ra persona plural                   Puñu-nqanku       ellos/ellas dormirán
+
+  -y      Imperativo             Mikhu-y               ¡come!
+ -chka         Progresivo       Mikhu-chka-ni      estoy comiendo
+SUFIJOS FLEXIVOS DE MODO
+   -pti     Subordinador     chamu-pti-yki risun     iremos cuando llegues
+  -na     Obligativo           jamunan tiyan            Tiene que venir
+  -spa   Gerundio- Condicional         Parla-spa kashkan        Está hablando
+                  Muna-spa mikhuy mana muna.spa amapis         si quieres comes, si no quieres no.
+  -ytawan    Terminativo            mikhu-ytawan ripusun           nos vamos en cuanto comamos
+SUFIJOS MARCADORES DEL PASADO
+    -rqa        Pasado Testimonial           Qam jamu-rqa-nki      Tú viniste
+    -sqa       Pasado no Testimonial     Pay tusu-sqa              él había bailado
+   -man      Condicional                   tusun-man          él/ella bailaría
+
+SUFIJOS DERIVATIVOS
+SUFIJOS VERBALES DERIVADOS DE VERBO
+SUFIJOS AUXILIARES
+   -chi      Causativo            Puklla-chi-ni       hago jugar
+  -ku       Reflexivo             Uyayta riku-ku-ni          me miro la cara
+  -ri        Minimizador         Tiya-ri-kuy                  Siéntate por favor
+ -ysi      Asistivo                 Tarpu-ysi-nku             Ayudaron a sembrar 
+SUFIJOS MODIFICADORES
+  -lla      Afectivo                Ripi-lla-y-ña           Ándate no más ya  
+  -na     Reciprocativo       Maqa-na-ku-kun    se pelean 
+  -payas    Frecuentativo      Pay kunata asi-paya-n           les sonríe a ellos
+  -rpari      Intencionativo      Saqi-rpari-ni          Lo deje definitivamente
+  -ykacha   Simulativo          Llamata qhati-ykacha-nku      arrean a las llamas de un lado a otro
+                         Puñu-ykacha-chkan                Esta dormitando
+  -ra     Distributivo       Willa-ra-niña             ya avisé a todos
+SUFIJOS DIRECCIONALES
+  -mu    Movimiento           Ranti-mu-y             ve a comprar
+  -pu       Regresivo            Wawaypaq wayk´u-pu-ni         para mi hijo se lo cociné
+  -yku    Eductivo              Q´ipita  apa-yku-y                 mete el bulto
+  -rqu   Exhortativo         Mikhu-rqu-y                            come come pue
+
+SUFIJOS INDEPENDIENTES 
+-qa       Topico          Mamay-qa llamk´achkan        Mi mama esta trabajando
+                                Allquy-qa yana          Mi perro es negro
+ -lla       Limitativo       Ama-lla maqanakuychikchu solo no se peleen
+ -pis      Aditivo          Ñuqa-pis Punamanta kani         Yo también soy de puna
+                                 Riy-pis jamiy-pis                 Vayas o vengas
+ -taq     Enfatico – Interrogativo        Ñuqa wayk´uni-taq pichani-taq      Yo cocino y limpio
+                                 Pi-taq ch´aqwachkan?            Quien esta haciendo bulla?
+ -raq     Comunicativo             Ama-raq ripuychu      Todavia no te vayas
+ -puni    Definitivo               Ñuqa-puni rini       Yo siempre he ido 
+                                          Kay killapi paran-puni      Este mes llueve siem´re
+ -ri      Responsivo       Qam-ri           Y tu 
+ -min    Afirmativo        Sumaqta-min  parlachkan      ¡Mmmmm! Bien esta hablando
